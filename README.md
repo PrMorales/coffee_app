@@ -10,7 +10,7 @@ O objetivo principal é atuar em duas frentes cruciais para a saúde financeira 
 
 <img width="905" height="467" alt="image" src="https://github.com/user-attachments/assets/4603cd21-16a4-42d8-8922-8008cc1507b0" />
 
-⚙️ Tecnologias
+⚙️ Tecnologias: 
 Este projeto é um exemplo de Single-Stack Python:
 
 Linguagem: Python 3
@@ -19,10 +19,10 @@ Framework Web: Streamlit (Para criar o frontend/dashboard)
 
 Gestão de Dados: Módulo nativo json e biblioteca pandas (Para manipulação de dados e visualização).
 
-🌐 Publicação Online (Deploy)
+🌐 Publicação Online (Deploy): 
 Esta aplicação está desenhada para ser publicada gratuitamente através do Streamlit Community Cloud.
 
-Para fazer o deploy, basta que o repositório contenha os ficheiros:
+Para fazer o deploy, basta que o repositório contenha os arquivos:
 
 cafe_app.py
 
