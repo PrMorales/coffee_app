@@ -1,10 +1,10 @@
 🚧 Café Analytics Dashboard (Streamlit & Python)
 Status do Projeto: 🛠️ Em Andamento (WIP - Work In Progress)
 
-Este é um projeto ativo focado em demonstrar a capacidade de usar o Python para criar ferramentas de negócio interativas. Sugestões e contribuições são bem-vindas!
+Este é um projeto focado em demonstrar a capacidade de usar Python para criar ferramentas de negócio interativas. Sugestões e contribuições são bem-vindas!
 
 🎯 Visão Geral do Projeto
-O Café Analytics Dashboard é uma aplicação web simples, construída inteiramente com Python e Streamlit, projetada para ajudar um pequeno negócio de café a tomar decisões baseadas em dados.
+O Café Analytics Dashboard é uma aplicação web simples, construída inteiramente com Python com deploy em Streamlit, projetada para ajudar um pequeno negócio de café a tomar decisões baseadas em dados.
 
 O objetivo principal é atuar em duas frentes cruciais para a saúde financeira de um café: Melhorar as Vendas e Diminuir as Perdas.
 
